@@ -1,0 +1,17 @@
+.skill_1
+{
+    background-color:burlywood;
+    color: rgb(201, 247, 35);
+    font-size: 18px;
+}
+li{
+    display:inline;
+    
+    
+}
+button{
+    height: 30px;
+    width:140px;
+    margin: 10px;
+    border-radius: 1000px;
+}
