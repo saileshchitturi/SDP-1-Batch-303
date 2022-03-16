@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+    
+}
+.image1{
+    margin-top: 50px;
+  width: 500px;
+    border:2px solid black
+    
+}
+
+.sailesh{
+  margin-top: 20px;
+  width: 800px;
+  border:2px solid black
+  
+  
+
+}
+.change{
+  font-size: x-large;
+}
+p{
+  padding-left: 10px;
+  text-align: left;
+  
+}
+#coverhome{
+  width:1050px;
+}
